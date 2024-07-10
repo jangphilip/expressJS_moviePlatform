@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>영화 검색 결과 화면</title>
+
+  <link rel="stylesheet" href="search_result.css" />
+  <style>
+    #companyResult {
+      border: 2px solid yellow;
+      clear: both;
+      height: 90%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- <div id="loading">
+    <img src="./loading.png" alt="loading">
+  </div> -->
+
+  <header>
+    <div class="top">
+      <div style="margin-bottom: -230px; width: 31%; text-align: left; background-color: yellow; font-size: 10px;">
+        * 위 사이트는 영화진흥위원회(https://www.kobis.or.kr/kobisopenapi/homepg/main/main.do)에서<br>제공하는 데이터를 기반으로 제작되었습니다.<br><br>
+
+        왼쪽에 있는 셀렉트 박스를 이용하여 통합검색, 영화명(국문,영문), 영화감독, 대표 장르, 영화 유형 별로 검색 가능.<br><br>
+
+        결과건수 기본값을 5 로 설정해줌<br><br>
+        결과건수에는 희망하는 검색결과의 갯수가 1-10000(만)까지 제한.<br>
+        1 보다 작거나 10000(만)보다 크거나 미기입시에는 기본값인 5로 설정하여 검색<br>
+        결과건수는 숫자만 입력가능하도록 설정<br><br>
+
+        하단 왼쪽바 최상단에는 결과 건수의 수와 무관하게 전체 데이터중 해당 검색어를 조회하였을 때 나오는 건수를 표시.<br>
+        하단 왼쪽바에는 검색된 결과 내의 집계 결과를 장르별, 국가별로 상위 5개까지의 집계 추출.<br><br>
+
+        하단 오른쪽바에는 검색 결과 추출.<br><br>
+
+        상당 중앙 로고 클릭시 새로고침 작용<br><br>
+
+        새로고침 시 로딩 화면 작용<br><br>
+
+        결과 출력란은 페이지 형식이 아닌 scroll 형식으로 설정.<br><br>
+
+        검색 결과 시 하이라이팅 기능 작용<br><br>
+
+        enter 키를 이용하여 검색 가능<br>
+        검색어가 공백일 시 alert창 출력하도록 설정<br>
+
+
+        <h2 style="text-align: center;">- By Dev.philip -</h2>
+      </div>
+
+      <div id="searchDiv">
+        <img onclick="javascript:location.href='/search_result'" id="imgId" src="movie_after.png" alt="영화 심볼"
+          height="150px" width="200px">
+        <select name="searchDetail" onchange="searchDetailValue(this)">
+          <option value="all" selected="selected">통합</option>
+          <option value="MOVIE_NM">영화명(국문)</option>
+          <option value="MOVIE_NM_EN">영화명(영문)</option>
+          <option value="DIRECTORS">영화감독</option>
+          <option value="REP_GENRE_NM">대표 장르</option>
+          <option value="TYPE_NM">영화유형</option>
+        </select>
+        <input id="searchKeyword" type="text" placeholder="검색어 입력" onchange="inputSearchSetting()">
+        <input id="searchSize" type="number" placeholder="결과 건수" onchange="inputSearchSetting()">
+        <input id="searchBtn" type="button" value="검색" onclick="fetchData()"></input>
+      </div>
+    </div>
+  </header>
+
+  <div class="left" style="overflow:scroll"></div>
+
+  <div class="right" style="overflow:scroll"></div>
+</body>
+
+
+<script src="//code.jquery.com//jquery-1.11.0.min.js"></script>
+<script>
+
+  $(window).load(function () {
+    $('#loading').hide();
+  });
+
+  let searchKeyword = "";
+
+  //entetKey 추가
+  let searchKeywordEnterKey = document.getElementById("searchKeyword");//검색어 입력란 enter시 사용할 수 있도록 설정
+  searchKeywordEnterKey.addEventListener("keyup", function (event) {
+    if (event.keyCode === 13) {
+      event.preventDefault();
+      document.getElementById("searchBtn").click();
+    }
+  });
+
+  let searchSizeEnterKey = document.getElementById("searchSize");//결과 건수란 enter시 사용할 수 있도록 설정
+  searchSizeEnterKey.addEventListener("keyup", function (event) {
+    if (event.keyCode === 13) {
+      event.preventDefault();
+      document.getElementById("searchBtn").click();
+    }
+  });
+
+
+  function inputSearchSetting() {
+    searchKeyword = document.getElementById("searchKeyword").value;
+    searchSize = document.getElementById("searchSize").value;
+  }
+
+  let searchDetail = "all";
+  const searchDetailValue = (target) => {
+    searchDetail = target.value;
+  }
+
+  function fetchData() {
+
+    try {
+      if (searchKeyword == '') { //검색어가 공백일 시
+        alert("검색어를 입력하시오.")
+      } else if (searchKeyword != '') {
+        //searchSize 기본값 설정
+        if (!searchSize || searchSize <= 0 || searchSize > 10001) {
+          searchSize = 5;
+        }
+        return fetch(`http://localhost:3000/api/search?category=movie&searchDetail=${searchDetail}&keyword=${searchKeyword}&aggField1=NATION_ALT&aggField2=REP_GENRE_NM&aggCount=5&source=all&sort=desc&searchSize=${searchSize}`)
+          .then((response) => {
+            return response.json();
+          })
+          .then((data) => {
+            if (JSON.stringify(data.search_result.totalCount) === "0") {
+              $(".right").empty();
+              $(".right").append("검색 결과 없습니다.");
+            } else if (JSON.stringify(data.search_result.totalCount) !== "0") {
+              $(".right").empty();
+              console.log(data.search_result.movie.dataList);
+              data.search_result.movie.dataList.map(data => {
+                $(".right").append("영화명(국문) : " + data._source.MOVIE_NM + "<br>");
+                $(".right").append("영화명(영문) : " + data._source.MOVIE_NM_EN + "<br>");
+                $(".right").append("영화유형 : " + data._source.TYPE_NM + "<br>");
+                $(".right").append("영화장르(전체) : " + data._source.GENRE_ALT + "<br>");
+                $(".right").append("대표 장르명 : " + data._source.REP_GENRE_NM + "<br>");
+                $(".right").append("영화감독 : " + data._source.DIRECTORS + "<br>");
+                $(".right").append("영화코드 : " + data._source.MOVIE_CD + "<br>");
+                $(".right").append("제작사 코드 : " + data._source.COMPANY_CD + "<br>");
+                $(".right").append("제작사명 : " + data._source.COMPANY_NM + "<br>");
+                $(".right").append("제작국가(전체) : " + data._source.NATION_ALT + "<br>");
+                $(".right").append("대표 제작국가명 : " + data._source.REP_NATION_NM + "<br>");
+                $(".right").append("개봉일 : " + data._source.OPEN_DT + "<br>");
+                $(".right").append("제작연도 : " + data._source.PRDT_YEAR + "<br>");
+                $(".right").append("제작상태 : " + data._source.PRDT_STAT_NM + "<br>");
+                $(".right").append("=====================================================================================================<br>");
+              });
+
+
+              //집계란
+              $(".left").empty();
+              $(".left").append("전체 건수 : " + JSON.stringify(data.search_result.totalCount) + "건<br>======================<br>");
+
+              $(".left").append("<h3>장르 집계</h3>");
+              data.search_result.movie.aggData2.map(data => {
+                $(".left").append("장르명 : " + JSON.stringify(data.key) + "<br>");
+                $(".left").append("집계값 : " + JSON.stringify(data.doc_count) + "<br>");
+                $(".left").append("======================<br>");
+              });
+
+              $(".left").append("<h3>국가 집계</h3>");
+              data.search_result.movie.aggData1.map(data => {
+                $(".left").append("국가명 : " + JSON.stringify(data.key) + "<br>");
+                $(".left").append("집계값 : " + JSON.stringify(data.doc_count) + "<br>");
+                $(".left").append("======================<br>");
+              });
+            }
+          })
+      }
+    } catch (err) {
+      console.error(err);
+    }
+  }
+
+</script>
+
+</html>

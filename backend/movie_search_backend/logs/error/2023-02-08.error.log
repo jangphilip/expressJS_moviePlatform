@@ -1,0 +1,418 @@
+2023-02-08 15:14:49 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:14:52 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:14:53 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:16 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:16 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:16 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:16 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:22 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:23 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:42 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:43 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:43 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:44 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:44 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:44 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:44 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:44 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:45 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:45 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:45 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:45 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:45 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:46 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:46 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:47 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:47 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:50 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:50 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:51 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:52 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:52 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:52 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:52 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:53 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:15:53 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:16:04 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:16:04 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+2023-02-08 15:16:07 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/app.js:18:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search/node_modules/express/lib/router/index.js:286:9

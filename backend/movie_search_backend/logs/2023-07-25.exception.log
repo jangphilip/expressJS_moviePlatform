@@ -1,0 +1,100 @@
+2023-07-25 18:15:42 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:16:00 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:16:01 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:16:18 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:16:44 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:16:48 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:16:49 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:16:51 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:17:01 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+2023-07-25 18:17:01 [undefined] error: uncaughtException: ㄱ is not defined
+ReferenceError: ㄱ is not defined
+    at normalizePort (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:23:4)
+    at Object.<anonymous> (/Users/philip_jang/Desktop/personal/movie_search_folder/movie_search_backend/bin/www.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47

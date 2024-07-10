@@ -1,0 +1,11 @@
+2023-02-15 10:50:41 [undefined] error: NotFoundError: Not Found
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/app.js:22:8
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/index.js:280:10)
+    at cookieParser (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/cookie-parser/index.js:57:14)
+    at Layer.handle [as handle_request] (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/philip_jang/Desktop/ibricks/projects/중소벤처기업부/node/smes_search_backend/node_modules/express/lib/router/index.js:286:9
